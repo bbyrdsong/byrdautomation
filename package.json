@@ -1,0 +1,29 @@
+{
+  "name": "byrdautomation",
+  "version": "1.0.0",
+  "description": "cli automated personal tasks",
+  "main": "brian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbyrdsong/byrdautomation.git"
+  },
+  "keywords": [
+    "nodejs",
+    "automation",
+    "cli",
+    "js",
+    "es6"
+  ],
+  "author": "brian byrdsong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbyrdsong/byrdautomation/issues"
+  },
+  "homepage": "https://github.com/bbyrdsong/byrdautomation#readme",
+  "dependencies": {
+    "commander": "^2.17.1"
+  }
+}
